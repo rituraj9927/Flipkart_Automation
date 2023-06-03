@@ -1,8 +1,4 @@
-'''
-Created on Apr 19, 2020
 
-@author: Sumit
-'''
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
